@@ -1,3 +1,14 @@
+# Ignore file
+
+
+# WebStorm
+
+.idea
+
+# Mac
+
+.DS_Store
+
 # Logs
 logs
 *.log
